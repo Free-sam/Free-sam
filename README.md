@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm SoumikDas</h1>
+<h1 align="center">Hi 👋, I'm Soumik</h1>
 <h3 align="center">Scripter and animator</h3>
 
 - ⚡ Fun fact **I thik I am madly Virtual creator**
